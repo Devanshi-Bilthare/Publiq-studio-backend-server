@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "id": "2025-01-14T22:12:18.177Z",
+      "name": "Devanshi Biltharee",
+      "email": "devanshibilthare@gmail.com",
+      "role": "Developer"
+    },
+    {
+      "id": "2025-01-15T02:25:10.116Z",
+      "name": "Sanvi Soni",
+      "email": "Sonisanvi@gmail.com",
+      "role": "developer"
+    },
+    {
+      "id": "2025-01-15T08:18:45.689Z",
+      "name": "Dhanyaa",
+      "email": "dhanya@gmail.com",
+      "role": "Backend"
+    }
+  ],
+  "projects": [
+    {
+      "id": "2025-01-15T03:10:40.269Z",
+      "projName": "UI Development",
+      "deadline": "2025-01-15",
+      "progress": 100,
+      "tasks": [
+        "2025-01-15T05:11:00.233Z",
+        "2025-01-15T06:06:03.337Z",
+        "2025-01-15T06:07:07.667Z",
+        "2025-01-15T07:05:19.928Z"
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": "2025-01-15T06:58:57.374Z",
+      "title": "create a logo design using figma",
+      "assignTo": "Dhanyaa",
+      "deadline": "2025-01-15",
+      "status": "Completed",
+      "projId": "2025-01-15T03:10:40.269Z"
+    },
+    {
+      "id": "2025-01-15T07:05:19.928Z",
+      "title": "create the website UI",
+      "assignTo": "Sanvi Soni",
+      "deadline": "2025-01-16",
+      "status": "Completed",
+      "projId": "2025-01-15T03:10:40.269Z"
+    }
+  ]
+}
