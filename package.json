@@ -4,13 +4,12 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-  "start": "json-server --watch db.json --port 5000"
-},
-
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+    "start": "json-server --watch db.json --port 5000"
+  },
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
