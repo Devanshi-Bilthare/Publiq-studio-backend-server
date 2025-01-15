@@ -4,8 +4,10 @@
   "description": "",
   "main": "server.js",
  "scripts": {
-  "start": "npx json-server --watch db.json --port 5000"
-},
+  "postinstall": "chmod +x node_modules/.bin/json-server",
+  "start": "json-server --watch db.json --port 5000"
+}
+,
 
   "author": "",
   "license": "ISC",
